@@ -7,7 +7,7 @@ I'm Yasen Behiri!
 - <img src="https://fintechcanada.io/wp-content/uploads/listing-uploads/logo/2020/04/Wealthsimple-logo-template.jpg" alt="Wealth Simple" width="16" height="16" style="vertical-align:middle; border-radius:50%;" /> Currently working on making a Wealthsimple clone.
 - 🔭 I love learning new things and working on new projects.
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasenbehiri) 
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/smolbrainerr)
 
