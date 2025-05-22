@@ -2,10 +2,10 @@
 
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/Smolbrainer/Smolbrainer/output/dist/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Smolbrainer/Smolbrainer/output/github-snake-dark.svg"
     media="(prefers-color-scheme: dark)">
   <img
-    src="https://raw.githubusercontent.com/Smolbrainer/Smolbrainer/output/dist/github-snake.svg"
+    src="https://raw.githubusercontent.com/Smolbrainer/Smolbrainer/output/github-snake.svg"
     alt="GitHub Contributions Snake">
 </picture>
 
