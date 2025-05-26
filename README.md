@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yasen Behiri!
+# Hi there 👋 I'm Yasen!
 ## 👨‍💻 About Me
 - 📚 I am currently enrolled in Software Engineering at the University Of Waterloo
 - <img src="https://avatars.githubusercontent.com/u/19055535?s=200&v=4" alt="Savi Finance" width="16" height="16" style="vertical-align:middle; border-radius:50%;" /> Interning at Savi Finance
