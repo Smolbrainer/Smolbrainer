@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Yasen!
 ## 👨‍💻 About Me
 - 📚 I am currently enrolled in Software Engineering at the University Of Waterloo
-- <img src="https://avatars.githubusercontent.com/u/19055535?s=200&v=4" alt="Savi Finance" width="16" height="16" style="vertical-align:middle; border-radius:50%;" /> Interning at Savi Finance
-- <img src="https://fintechcanada.io/wp-content/uploads/listing-uploads/logo/2020/04/Wealthsimple-logo-template.jpg" alt="Wealth Simple" width="16" height="16" style="vertical-align:middle; border-radius:50%;" /> Working on making a Wealthsimple clone.
+-  <img src="https://avatars.githubusercontent.com/u/19055535?s=200&v=4" alt="Savi Finance" width="16" height="16" style="vertical-align:middle; border-radius:50%;" /> Interning at Savi Finance
+- 📈 Working on making an AI Powered Stock Trading Platform.
 - 🔭 I love learning new things and working on new projects.
 ## 🛠️ Languages & Tools
 <div>
