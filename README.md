@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Yasen!
 ## 👨‍💻 About Me
-- 📚 I am currently enrolled in Software Engineering at the University Of Waterloo
--  <img src="https://avatars.githubusercontent.com/u/19055535?s=200&v=4" alt="Savi Finance" width="16" height="16" style="vertical-align:middle; border-radius:50%;" /> Interning at Savi Finance
-- 📈 Working on making an AI Powered Stock Trading Platform.
+- 📚 I am currently enrolled in Software Engineering at the University of Waterloo
+- ![Shopify](https://avatars.githubusercontent.com/u/8085?s=16&v=4) Interning at Shopify
+- 📈 Working on making a world model that plays Rocket League.
 - 🔭 I love learning new things and working on new projects.
 ## 🛠️ Languages & Tools
 <div>
